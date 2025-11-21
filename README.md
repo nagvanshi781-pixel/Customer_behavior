@@ -60,10 +60,6 @@ Approach
 Insights
 Dashboard highlights
 Recommendations
-
-📊 Dashboard Preview
-![Power BI Dashboard](path/to/dashboard-image.png)
-
 ## 🎯 Results & Key Insights
 
 * Identified top customer segments
