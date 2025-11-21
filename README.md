@@ -61,7 +61,8 @@ Insights
 Dashboard highlights
 Recommendations
 ## 📊 Dashboard Preview
-
+### sample dashboard
+![Customer Beavior Dashboard](screenshots/Screenshot%202025-11-21%20163750.png)
 ## 🎯 Results & Key Insights
 
 * Identified top customer segments
