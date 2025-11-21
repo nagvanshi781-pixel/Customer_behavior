@@ -60,6 +60,8 @@ Approach
 Insights
 Dashboard highlights
 Recommendations
+## 📊 Dashboard Preview
+
 ## 🎯 Results & Key Insights
 
 * Identified top customer segments
@@ -85,8 +87,8 @@ Recommendations
 1. Clone the repository:
 
    bash
-   git clone https://github.com/yourusername/customer-behavior-analysis.git
-   cd customer-behavior-analysis
+   git clone https://github.com/nagvanshi781-pixel/Customer_behavior.git
+   cd Customer_behavior
    
 2. Install Python requirements:
 
